@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m Malay</h1>
 
-You have landed to Github profile of Malay Patel 😅. ok seriously about me About me:-
+You have landed to Github profile of Malay Patel 😅. ok seriously, about me :-
 - 👀 ALways learning and exploring about computers.
 - 😩 Often fruestred by bugs but still exploring.
 - 🖼 Frameworks and Libraries:- Bootstrap, JQuery, Node.js, Express.js.
