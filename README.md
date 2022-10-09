@@ -3,7 +3,7 @@
 You have landed to Github profile of Malay Patel 😅. ok seriously, about me :-
 - 👀 ALways learning and exploring about computers.
 - 😩 Often fruestred by bugs but still exploring.
-- 🖼 Frameworks and Libraries:- Bootstrap, JQuery, Node.js, Express.js.
+- 🖼 Frameworks and Libraries:- Bootstrap, Node.js, Express.js, React.js, Passport.js.
 - 💽 Databases:- MongoDB
 - 🌱 I’m currently learning:- Web Development, more specifically Node.js and API.
 - 💞️ I'll be more then happy to collaborate to learn and teach about development.
