@@ -11,9 +11,9 @@
 <p>You can reach me on <a href="https://www.linkedin.com/in/malay-patel-8504601a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYhKjFpv0ShmuXwZzTNLIEg%3D%3D" style="color:#2196f3;">LinkedIn</a>. I would love to hear from you!</p>
 <h3 style="color:#ffc107;">My Work</h3>
 <p>Check out this cool <a href="https://codesandbox.io/s/space-warp-80b7yt" style="color:#2196f3;">Space Warp effect</a> that I implemented in React.js using R3F:</p>
-<iframe src="https://codesandbox.io/embed/space-warp-80b7yt?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Space Warp effect"></iframe> 
+[![Edit Space Warp](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/space-warp-80b7yt?fontsize=14&hidenavigation=1&theme=dark)
+
+
 
 
 ## 🌐 Socials:
